@@ -26,8 +26,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
         B3 = (Button) findViewById(R.id.B3);
         B4 = (Button) findViewById(R.id.B4);
         ET1 = (EditText) findViewById(R.id.ET1);
-        ET2 = (EditText) findViewById(R.id.ET2);
-
         TV = (TextView) findViewById(R.id.TV);
         B1.setOnClickListener(this);
        B2.setOnClickListener(this);
